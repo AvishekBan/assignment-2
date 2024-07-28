@@ -28,7 +28,9 @@
     border-radius: 22px;
     background-color: tomato;
    }
-
+   .gray{
+     color: gray;
+   }
 /* nav styles */
 .navigate{
     align-items: center;
@@ -94,4 +96,52 @@ nav li a{
 .banner-image{
     width: 340px;
     height: 450px;
+}
+/* small transparent card */
+.card-container{
+    display: flex;
+  
+    
+
+
+    gap: 10px;
+    width: 200;
+    height: 96;
+}
+
+
+.red-circle{
+    background-color: tomato;
+    border-style: solid;
+    width: 30px;
+    height: 10px;
+    border-radius:50% ;
+    padding:10px 0px 10px 0px;
+    margin-top: 20px;
+
+
+    
+}
+.card-description{
+      color: gray;
+      line-height:normal;
+      height: 100px;
+      width: 100px;
+      font-size: small;
+}
+.text-card{
+     line-height: 10px;
+}
+.first-card{
+    
+   
+}
+/* main section start */
+.heading-2{
+    font-size: 30px ;
+
+}
+.container-habit{
+    text-align: center;
+     
 }
