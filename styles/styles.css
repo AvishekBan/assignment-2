@@ -138,10 +138,83 @@ nav li a{
 }
 /* main section start */
 .heading-2{
-    font-size: 30px ;
+    font-size: 35px ;
 
 }
 .container-habit{
     text-align: center;
      
+}
+.heading-3{
+    color: white;
+    text-align: center;
+}
+.heading-4{
+    color:gray;
+    text-align: center;
+}
+.head-mother{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10rem 0 12rem;
+    
+}
+.omg{
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    margin-left: 18px;
+}
+
+.run{
+    display: flex;
+    gap: 21.1rem;
+    background-color:#242526;
+    padding: 2rem 2rem 1.5rem 2rem;
+    margin:  10rem 10rem ;
+    border-radius: 15px;
+
+}
+.omg-2{
+    width: 366px;
+    height:312px;
+    border-radius: 15px;
+}
+.run-children{
+    
+ 
+}
+.heading-5{
+    color: white;
+}
+.heading-6{
+    color:gray;
+}
+/* bmi section */
+.bmi{
+    text-align: center;
+}
+table,th,td {
+    border-style: solid;
+    border-color:  gray;
+    padding:  10px;
+    border-collapse: collapse;
+    border-width:1px;
+    
+}
+.tab-size{
+   font-size: small;
+}
+
+.bmi-color{
+ color: white;
+font-size: 22px;
+
+}
+.bmi-mother{
+    display: flex;
+    gap: 15rem;
+    background-color: #242526;
+    padding: 0 3rem 0 25rem;
+
 }
