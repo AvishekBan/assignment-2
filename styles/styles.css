@@ -17,6 +17,7 @@
 
    .intro {
     color:  tomato;
+    
 }
    .white {
     color: white;
@@ -57,8 +58,7 @@ nav ul li{
 nav li a{
     text-decoration: none;
     padding: 10px 18px 10px 18px;
-    
-}
+    }
 /* banner style */
 .banner-title {
     color: white;
@@ -68,7 +68,6 @@ nav li a{
 .banner-description{
     color: gray;
 }
-
 .btn-primary{
     color: white;
     background-color: tomato;
@@ -108,8 +107,6 @@ nav li a{
     width: 200;
     height: 96;
 }
-
-
 .red-circle{
     background-color: tomato;
     border-style: solid;
@@ -118,9 +115,6 @@ nav li a{
     border-radius:50% ;
     padding:10px 0px 10px 0px;
     margin-top: 20px;
-
-
-    
 }
 .card-description{
       color: gray;
@@ -157,8 +151,7 @@ nav li a{
     display: flex;
     justify-content: space-between;
     padding: 0 10rem 0 12rem;
-    
-}
+    }
 .omg{
     border-radius: 50%;
     height: 180px;
@@ -173,7 +166,6 @@ nav li a{
     padding: 2rem 2rem 1.5rem 2rem;
     margin:  10rem 10rem ;
     border-radius: 15px;
-
 }
 .omg-2{
     width: 366px;
@@ -215,6 +207,84 @@ font-size: 22px;
     display: flex;
     gap: 15rem;
     background-color: #242526;
-    padding: 0 3rem 0 25rem;
+    padding: 2rem 3rem 0 25rem;
+    height: 500px;
+  
 
 }
+.form{
+  
+    border-style: none;
+    background-color: rgb(49, 46, 46);
+    color: #919396;
+    border-radius:5px; 
+    padding:5px 0px 5px 5px ;
+   padding-right: 20px ;
+}
+.trainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr) ;
+    gap: 20px;
+    background-color:#242526 ;
+    margin: 2rem 10rem 2rem 10rem;
+    padding: 1.3rem 1rem 1.3rem 1.3rem;
+    border-style: none;
+   border-radius: 8px;
+}
+.ton{
+    height: 312px;
+    width: 366px;
+    border-style: none;
+    border-radius: 10px;
+}
+.head-7{
+    text-align: center;
+}
+.gig{
+ 
+}
+.card-2{
+  
+  /* footer section */
+    
+}
+.foot-2{
+color: tomato;
+font-size: 50px;
+}
+.foot-3{
+color:gray;
+}
+.main-footer{
+background-color: #242526;
+}
+footer > div > div > ul > li{
+    list-style-type: none;
+    color: gray;
+}
+.footer{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+    align-items: center;
+    gap: 5rem;
+    padding: 0rem 0rem 0rem 12rem;
+}
+.fee{
+    padding-left: 0px;
+    line-height: 26px;
+}
+.start{
+    color: white;
+    
+}
+.last-foot{
+    background-color: gray;
+    height: 1px;
+    width: 1090px;
+    margin-left:13rem ;
+}
+.copyright{
+    text-align: center;
+    padding: 0rem 0rem 2rem 0rem;
+}
+
