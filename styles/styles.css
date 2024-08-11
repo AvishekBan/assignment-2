@@ -168,9 +168,13 @@ nav li a{
     border-radius: 15px;
 }
 .omg-2{
-    width: 366px;
-    height:312px;
+     width: 370px; 
+    height:350px;
     border-radius: 15px;
+    object-fit:none;
+    object-position: 67% 30% ;
+
+    
 }
 .run-children{
     
@@ -181,6 +185,9 @@ nav li a{
 }
 .heading-6{
     color:gray;
+}
+.run-para{
+    line-height: 2rem;
 }
 /* bmi section */
 .bmi{
