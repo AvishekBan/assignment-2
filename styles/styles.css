@@ -294,4 +294,48 @@ footer > div > div > ul > li{
     text-align: center;
     padding: 0rem 0rem 2rem 0rem;
 }
+/* unique section */
+.unique-img{
+    height: 324px;
+    width: 365px;
+    border-style: none;
+    border-radius: 5rem ;
+}
+.chest{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 3rem 3rem 3rem;
+    border-style:none;
+    border-radius: 2rem;
+
+}
+.unique-con2{
+    margin: 8rem 8rem 8rem 8rem;
+    
+}
+.con-45{
+    text-align: center;
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.purple{
+    background-color: purple;
+}
+.reddis{
+    background-color: lightcoral;
+
+}
+section > div > div > div > div > ul > li{
+ list-style-type:lower-roman;
+}
 
